@@ -21,5 +21,5 @@ MIT - A short and simple permissive license with conditions only requiring prese
 * GitHub Username: [mriya20](https://github.com/mriya20)
 * Email: anastasia19markova@gmail.com
 * <p>
-    <a href="https://www.linkedin.com/in/anastasia-markova-48730b124//"><img alt="Linkedin: Anastasia Markova" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+    <a href="https://www.linkedin.com/in/anastasiia-markova200/"><img alt="Linkedin: Anastasia Markova" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
     </p>
